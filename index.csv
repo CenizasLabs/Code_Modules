@@ -1,0 +1,3 @@
+1, function, compute the greatest common divisor (GCD) of multiple numbers, compute_gcd()
+2, function, compute the least common multiple (LCM) of multiple numbers, compute_lcm()
+3, code, extract code from given file from a given repository, get_file_content()
